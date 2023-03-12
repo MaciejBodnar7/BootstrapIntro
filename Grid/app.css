@@ -1,0 +1,13 @@
+.example {
+    margin: 1em 0;
+    text-align: center;
+}
+  
+.example img {
+    width: 20vw;
+    height: 20vw;
+}
+  
+.example-cover img {
+    object-fit: cover;
+}
