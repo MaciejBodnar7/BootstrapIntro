@@ -1,0 +1,11 @@
+#logoimg {
+    margin: 5px;
+}
+
+p {
+    width: 50%;
+    display: flex;
+    margin: 0 auto;
+    padding: 2%;
+    justify-content: center;
+}
